@@ -1,0 +1,21 @@
+{F:/M.E. IT/IC/FPGA/Example/Two_Counters/tb_two_counters.vhd} {1 {vcom -work work -2002 -explicit -stats=none {F:/M.E. IT/IC/FPGA/Example/Two_Counters/tb_two_counters.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity tb_counter
+-- Compiling architecture behave of tb_counter
+
+} {} {}} {F:/M.E. IT/IC/FPGA/Example/Two_Counters/Two_Counters.vhd} {1 {vcom -work work -2002 -explicit -stats=none {F:/M.E. IT/IC/FPGA/Example/Two_Counters/Two_Counters.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity twocounters
+-- Compiling architecture behave of twocounters
+
+} {} {}}

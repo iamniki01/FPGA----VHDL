@@ -1,0 +1,96 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/M.E. IT/IC/FPGA/Example/Dataflow
+Etb_counter
+Z0 w1589990347
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dF:/M.E. IT/IC/FPGA/Example/Two_Counters
+Z6 8F:/M.E. IT/IC/FPGA/Example/Two_Counters/tb_two_counters.vhd
+Z7 FF:/M.E. IT/IC/FPGA/Example/Two_Counters/tb_two_counters.vhd
+l0
+L6
+V[b5mNC5CjZSf9W8a78l^G0
+!s100 ?O_oQ8N4;9kokDBVKHcTY1
+Z8 OP;C;10.4a;61
+32
+Z9 !s110 1589990353
+!i10b 1
+Z10 !s108 1589990352.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/M.E. IT/IC/FPGA/Example/Two_Counters/tb_two_counters.vhd|
+Z12 !s107 F:/M.E. IT/IC/FPGA/Example/Two_Counters/tb_two_counters.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+Abehave
+R1
+R2
+R3
+R4
+DEx4 work 10 tb_counter 0 22 [b5mNC5CjZSf9W8a78l^G0
+l29
+L10
+V>f>JZHIz?L__SQY?CQ9>`1
+!s100 NO<oQ`:7QXUDOLnQ;f10d3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Etwocounters
+Z15 w1589992718
+R1
+R2
+R3
+R4
+R5
+Z16 8F:/M.E. IT/IC/FPGA/Example/Two_Counters/Two_Counters.vhd
+Z17 FF:/M.E. IT/IC/FPGA/Example/Two_Counters/Two_Counters.vhd
+l0
+L6
+V;>i7l^<iHJGHg`La;0EG;3
+!s100 [94WHcSZCQgkema6Ljjm21
+R8
+32
+Z18 !s110 1589992725
+!i10b 1
+Z19 !s108 1589992725.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/M.E. IT/IC/FPGA/Example/Two_Counters/Two_Counters.vhd|
+Z21 !s107 F:/M.E. IT/IC/FPGA/Example/Two_Counters/Two_Counters.vhd|
+!i113 1
+R13
+R14
+Abehave
+R1
+R2
+R3
+R4
+Z22 DEx4 work 11 twocounters 0 22 ;>i7l^<iHJGHg`La;0EG;3
+l23
+L15
+VF4=:eOL;S<l<ASa`gYnFC3
+!s100 aW3[;7YcYOoUogT2nO>><3
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
